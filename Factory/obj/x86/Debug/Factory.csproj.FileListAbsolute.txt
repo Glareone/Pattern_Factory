@@ -1,0 +1,8 @@
+D:\test projects\Factory\Factory\bin\Debug\Factory.exe
+D:\test projects\Factory\Factory\bin\Debug\Factory.pdb
+D:\test projects\Factory\Factory\obj\x86\Debug\Factory.exe
+D:\test projects\Factory\Factory\obj\x86\Debug\Factory.pdb
+D:\Myproject_git\Factory_simple_ex\Factory\obj\x86\Debug\Factory.exe
+D:\Myproject_git\Factory_simple_ex\Factory\obj\x86\Debug\Factory.pdb
+D:\Myproject_git\Factory_simple_example\Factory\obj\x86\Debug\Factory.exe
+D:\Myproject_git\Factory_simple_example\Factory\obj\x86\Debug\Factory.pdb
